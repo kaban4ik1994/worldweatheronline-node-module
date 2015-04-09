@@ -27,6 +27,7 @@
     "bugs": {
         "url": "https://github.com/kaban4ik1994/worldweatheronline-node-module/issues"
     },
+    "license": "MTI",
     "dependencies": {
         "request": "^2.54.0"
     }
