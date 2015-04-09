@@ -15,7 +15,6 @@
     "weather api",
     "worldweatheronline"
   ],
-  "main": "weather.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/kaban4ik1994/worldweatheronline-node-module.git"
@@ -23,14 +22,6 @@
   "bugs": {
     "url": "https://github.com/kaban4ik1994/worldweatheronline-node-module/issues"
   },
-  "engines": {
-    
-  },
-  "files": [
-    "README.md",
-    "weather.js"
-  ],
-  "license": "MIT",
   "dependencies": {
     "request": "^2.54.0"
   },
