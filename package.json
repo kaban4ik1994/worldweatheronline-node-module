@@ -7,9 +7,6 @@
     "Kiselyov Andrew",
     "Miskevich Alexander"
   ],
-  "bin": {
-    "module-name": "./bin/worldweatheronline-node-module"
-  },
   "keywords": [
     "weather",
     "weather api",
