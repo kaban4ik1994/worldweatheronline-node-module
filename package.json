@@ -1,6 +1,6 @@
 {
     "name": "worldweatheronline-node-module",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Module to get weather with worldweatheronline.",
     "author": "Kiselyov Andrew",
     "contributors": [
