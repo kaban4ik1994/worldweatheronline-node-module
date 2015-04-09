@@ -1,29 +1,27 @@
 {
-  "name": "worldweatheronline-node-module",
-  "version": "0.0.3",
-  "description": "Module to get weather with worldweatheronline.",
-  "author": "Kiselyov Andrew",
-  "contributors": [
-    "Kiselyov Andrew",
-    "Miskevich Alexander"
-  ],
-  "keywords": [
-    "weather",
-    "weather api",
-    "worldweatheronline"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kaban4ik1994/worldweatheronline-node-module.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kaban4ik1994/worldweatheronline-node-module/issues"
-  },
-  "dependencies": {
-    "request": "^2.54.0"
-  },
-  "homepage": "https://github.com/kaban4ik1994/worldweatheronline-node-module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+    "name": "worldweatheronline-node-module",
+    "version": "0.0.4",
+    "description": "Module to get weather with worldweatheronline.",
+    "author": "Kiselyov Andrew",
+    "contributors": [
+        "Kiselyov Andrew",
+        "Miskevich Alexander"
+    ],
+    "keywords": [
+        "weather",
+        "weather api",
+        "worldweatheronline"
+    ],
+    "main": "weather.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kaban4ik1994/worldweatheronline-node-module.git"
+    },
+    "bugs": {
+        "url": "https://github.com/kaban4ik1994/worldweatheronline-node-module/issues"
+    },
+    "dependencies": {
+        "request": "^2.54.0"
+    },
+    "homepage": "https://github.com/kaban4ik1994/worldweatheronline-node-module"
 }
