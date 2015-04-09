@@ -28,7 +28,6 @@
         "url": "https://github.com/kaban4ik1994/worldweatheronline-node-module/issues"
     },
     "engines": {
-        "node": ">=0.8.0",
     },
     "license": "MTI",
     "dependencies": {
