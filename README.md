@@ -1,4 +1,4 @@
-#google-geotargeting-node-module
+#worldweatheronline-node-module
 
 ##Getting started
 
